@@ -4,6 +4,6 @@
 "asmCodeUrl": "Builds.asm.code.unityweb",
 "asmMemoryUrl": "Builds.asm.memory.unityweb",
 "asmFrameworkUrl": "Builds.asm.framework.unityweb",
-"splashScreenStyle": "Dark",
-"backgroundColor": "#222C36"
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
 }
