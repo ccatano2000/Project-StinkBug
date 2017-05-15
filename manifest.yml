@@ -1,3 +1,6 @@
 ---
 applications:
   - name: PondShot
+    path: target/PONDSHOT-1.0-SNAPSHOT.jar
+    services:
+      - ponddb
