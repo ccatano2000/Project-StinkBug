@@ -1,0 +1,6 @@
+---
+applications:
+  - name: Naptime
+    path: target/resttutorial-1.0-SNAPSHOT.jar
+    services:
+      - napdb
