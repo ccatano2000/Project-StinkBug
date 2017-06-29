@@ -1,2 +1,2 @@
-EAD GFY LMB
-and goo
+@echo=off
+App Manifest_instance_V1 / 2 AI
